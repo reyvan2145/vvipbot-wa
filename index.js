@@ -1451,6 +1451,6 @@ Silakan pilih :
 
 }
 //Hay gay
-//create @agusalnsyh don't delate this please
+//create @reyvan novaldo don't delate this please
 	
 })
